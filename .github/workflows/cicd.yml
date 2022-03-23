@@ -34,11 +34,13 @@ jobs:
         ssh-keyscan github.com >> ~/.ssh/known_hosts
         git config --global user.name "0woodev"
         git config --global user.email "0woodev@gmail.com"
+        git config --global init.defaultBranch "main"
 
     - name: Install dependencies
       run: |
         npm i -g hexo-cli
         npm i
+
     - name: Deploy hexo
       run: |
         hexo clean && hexo generate && hexo deploy
