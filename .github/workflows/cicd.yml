@@ -24,8 +24,12 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
-    
+  
+    - name: Install hexo
+      run: |
+        npm install
+        hexo generate
+
     - name: Deploy
       run: |
-        hexo generate
         hexo deploy
