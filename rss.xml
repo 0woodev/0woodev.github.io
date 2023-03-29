@@ -1,27 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 28 Mar 2023 12:17:01 GMT</lastBuildDate><item><title><![CDATA[데일리 회고 no.01]]></title><description><![CDATA[…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/daily_2023_03_28/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/daily_2023_03_28/</guid><pubDate>Tue, 28 Mar 2023 21:04:00 GMT</pubDate><content:encoded>&lt;p&gt;블로그를 이리저리 옮겨다니면서 조금씩 쓰다가 나만의 블로그를 만들고 싶다는 생각에 깃헙 블로그를 시작하게 되었다.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 29 Mar 2023 01:14:58 GMT</lastBuildDate><item><title><![CDATA[데일리 회고 no.01]]></title><description><![CDATA[…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/daily_2023_03_28/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/daily_2023_03_28/</guid><pubDate>Tue, 28 Mar 2023 21:04:00 GMT</pubDate><content:encoded>&lt;p&gt;블로그를 이리저리 옮겨다니면서 조금씩 쓰다가 나만의 블로그를 만들고 싶다는 생각에 깃헙 블로그를 시작하게 되었다.&lt;/p&gt;
 &lt;p&gt;지하철을 타고 퇴근을 하는 길에서 블로그의 첫 글을 작성하는 중이다.
 나름 가볍고 간단하게 쓸 수 있을 것 같은 주제로 회고가 적합할 것 같았다.&lt;/p&gt;
 &lt;p&gt;회고 글을 써본지 오랜만이라 어떠한 내용이 담겨야 할지 기억이 나지 않는다.
 하지만 훗날의 내가 다시 읽어보았을 때, 어떤 생각을 가지고 있었는지, 어떠한 일들을 해왔는지 볼 수 있는 정도면 좋을 것 같다는 생각이 들었다.&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&quot;left&quot;&gt;no&lt;/th&gt;
-&lt;th&gt;목차&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;1&lt;/td&gt;
-&lt;td&gt;&lt;a href=&quot;#jobList&quot;&gt;오늘 한 일&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;2&lt;/td&gt;
-&lt;td&gt;&lt;a href=&quot;#feeling&quot;&gt;오늘의 감정&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h1&gt;jobList&lt;/h1&gt;
+&lt;h2&gt;목차&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;#job-list&quot;&gt;오늘 한 일&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#feeling&quot;&gt;오늘의 감정&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;Job list&lt;/h1&gt;
 &lt;p&gt;asdddddd&lt;/p&gt;
 &lt;p&gt;asdddddd&lt;/p&gt;
 &lt;p&gt;asdddddd&lt;/p&gt;
